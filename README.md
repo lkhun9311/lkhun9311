@@ -6,7 +6,7 @@ Building Kubernetes-native GPU infrastructure for LLM serving, workload orchestr
 
 - Kubernetes-native platform control planes with Operators, CRDs, and admission controllers
 - GPU workload orchestration for node readiness, scheduling, admission, and tenant governance
-- LLM serving infrastructure with telemetry, SLOs, observability, and failure recovery
+- LLM serving infrastructure with telemetry, SLOs, and failure recovery
 - Production-oriented platform deployment and operations with EKS, Terraform, Helm, Argo CD, and GitOps
 
 ## Tech Stack
@@ -34,6 +34,7 @@ Building Kubernetes-native GPU infrastructure for LLM serving, workload orchestr
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white">&nbsp;
@@ -46,7 +47,7 @@ Building Kubernetes-native GPU infrastructure for LLM serving, workload orchestr
 <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/DCGM%20Exporter-76B900?style=flat-square&logo=nvidia&logoColor=white">&nbsp;
 
-## Certification
+## Certifications
 
 **AWS**  
 <img src="https://img.shields.io/badge/AWS-CLF--C02-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">&nbsp;
