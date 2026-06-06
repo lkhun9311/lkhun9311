@@ -17,7 +17,7 @@ Building Kubernetes-native GPU infrastructure for LLM serving, workload orchestr
 <img src="https://img.shields.io/badge/KServe-326CE5?style=flat-square&logo=kubernetes&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Kueue-326CE5?style=flat-square&logo=kubernetes&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat-square&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/vLLM-111111?style=flat-square&logo=vllm&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/vLLM-30A2FF?style=flat-square&logo=vllm&logoColor=FDB515">&nbsp;
 <img src="https://img.shields.io/badge/NVIDIA%20GPU-76B900?style=flat-square&logo=nvidia&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white">&nbsp;
 
@@ -49,7 +49,7 @@ Building Kubernetes-native GPU infrastructure for LLM serving, workload orchestr
 <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/DCGM%20Exporter-76B900?style=flat-square&logo=nvidia&logoColor=white">&nbsp;
 
-## Certifications
+## Certification
 
 **AWS**  
 <img src="https://img.shields.io/badge/AWS-CLF--C02-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">&nbsp;
