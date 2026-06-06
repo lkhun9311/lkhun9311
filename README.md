@@ -4,7 +4,7 @@ Building Kubernetes-native GPU infrastructure for LLM serving, workload orchestr
 
 ## Focus
 
-- Kubernetes-native platform control planes with operators, CRDs, and admission controllers
+- Kubernetes-native platform control planes with Operators, CRDs, and admission controllers
 - GPU workload orchestration for node readiness, scheduling, admission, and tenant governance
 - LLM serving infrastructure with telemetry, SLOs, observability, and failure recovery
 - Production-oriented platform deployment and operations with EKS, Terraform, Helm, Argo CD, and GitOps
@@ -16,8 +16,8 @@ Building Kubernetes-native GPU infrastructure for LLM serving, workload orchestr
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/KServe-326CE5?style=flat-square&logo=kubernetes&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Kueue-326CE5?style=flat-square&logo=kubernetes&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/vLLM-111111?style=flat-square&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat-square&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/vLLM-111111?style=flat-square&logo=vllm&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/NVIDIA%20GPU-76B900?style=flat-square&logo=nvidia&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white">&nbsp;
 
@@ -32,7 +32,7 @@ Building Kubernetes-native GPU infrastructure for LLM serving, workload orchestr
 
 **Cloud / IaC / Platform Ops** 
 
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">&nbsp;
 <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white">&nbsp;
