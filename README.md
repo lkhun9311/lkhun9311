@@ -2,16 +2,12 @@
 
 Building Kubernetes-native GPU infrastructure for LLM serving, workload orchestration, and cloud-scale operations.
 
----
-
 ## Focus
 
 - Kubernetes-native platform control planes with Operators, CRDs, and admission controllers
 - GPU workload orchestration for node readiness, scheduling, admission, and tenant governance
 - LLM serving infrastructure with telemetry, SLOs, observability, and failure recovery
 - Production-oriented platform deployment and operations with EKS, Terraform, Helm, Argo CD, and GitOps
-
----
 
 ## Tech Stack
 
@@ -53,15 +49,20 @@ Building Kubernetes-native GPU infrastructure for LLM serving, workload orchestr
 <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/DCGM%20Exporter-76B900?style=flat-square&logo=nvidia&logoColor=white">&nbsp;
 
----
+## Certifications
 
 ## Certifications
 
+**AWS**  
 <img src="https://img.shields.io/badge/AWS-CLF--C02-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/AWS-AIF--C01-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/AWS-SAA--C03-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">&nbsp;
+
+**Kubernetes**
 <img src="https://img.shields.io/badge/CNCF-KCNA-326CE5?style=flat-square&logo=kubernetes&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/CNCF-KCSA-326CE5?style=flat-square&logo=kubernetes&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/CNCF-CKA-326CE5?style=flat-square&logo=kubernetes&logoColor=white">&nbsp;
+
+**Infrastructure**  
 <img src="https://img.shields.io/badge/HashiCorp-Terraform%20Associate-844FBA?style=flat-square&logo=terraform&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/NVIDIA-NCA--AIIO-76B900?style=flat-square&logo=nvidia&logoColor=white">&nbsp;
