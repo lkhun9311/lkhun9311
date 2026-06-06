@@ -14,12 +14,12 @@ Building Kubernetes-native GPU infrastructure for LLM serving, workload orchestr
 **AI Infrastructure & ML Platform** 
 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/NVIDIA%20GPU-76B900?style=flat-square&logo=nvidia&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/vLLM-111111?style=flat-square&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/KServe-326CE5?style=flat-square&logo=kubernetes&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Kueue-326CE5?style=flat-square&logo=kubernetes&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/vLLM-111111?style=flat-square&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/NVIDIA%20GPU-76B900?style=flat-square&logo=nvidia&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white">&nbsp;
 
 **Platform Engineering** 
 
@@ -32,9 +32,9 @@ Building Kubernetes-native GPU infrastructure for LLM serving, workload orchestr
 
 **Cloud / IaC / Platform Ops** 
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">&nbsp;
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">&nbsp;
 <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">&nbsp;
