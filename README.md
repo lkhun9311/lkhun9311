@@ -14,9 +14,9 @@ Building Kubernetes-native GPU infrastructure for LLM serving, workload orchestr
 **AI Infrastructure & ML Platform** 
 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat-square&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/KServe-326CE5?style=flat-square&logo=kubernetes&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Kueue-326CE5?style=flat-square&logo=kubernetes&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat-square&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/vLLM-30A2FF?style=flat-square&logo=vllm&logoColor=FDB515">&nbsp;
 <img src="https://img.shields.io/badge/NVIDIA%20GPU-76B900?style=flat-square&logo=nvidia&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white">&nbsp;
@@ -25,7 +25,7 @@ Building Kubernetes-native GPU infrastructure for LLM serving, workload orchestr
 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=flat-square&logo=openjdk&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Kubebuilder-326CE5?style=flat-square&logo=kubernetes&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/CRD%20%2F%20Controller-326CE5?style=flat-square&logo=kubernetes&logoColor=white">&nbsp;
@@ -45,7 +45,7 @@ Building Kubernetes-native GPU infrastructure for LLM serving, workload orchestr
 
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/OpenTelemetry-4F46E5?style=flat-square&logo=opentelemetry&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/OpenTelemetry-5A4FCF?style=flat-square&logo=opentelemetry&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/DCGM%20Exporter-76B900?style=flat-square&logo=nvidia&logoColor=white">&nbsp;
 
