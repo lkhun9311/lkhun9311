@@ -4,7 +4,7 @@ Building Kubernetes-native GPU infrastructure for LLM serving, workload orchestr
 
 ## Focus
 
-- Kubernetes-native platform control planes with Operators, CRDs, and admission controllers
+- Kubernetes-native platform control planes with operators, CRDs, and admission controllers
 - GPU workload orchestration for node readiness, scheduling, admission, and tenant governance
 - LLM serving infrastructure with telemetry, SLOs, observability, and failure recovery
 - Production-oriented platform deployment and operations with EKS, Terraform, Helm, Argo CD, and GitOps
