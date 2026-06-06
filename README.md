@@ -51,14 +51,12 @@ Building Kubernetes-native GPU infrastructure for LLM serving, workload orchestr
 
 ## Certifications
 
-## Certifications
-
 **AWS**  
 <img src="https://img.shields.io/badge/AWS-CLF--C02-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/AWS-AIF--C01-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/AWS-SAA--C03-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">&nbsp;
 
-**Kubernetes**
+**Kubernetes**  
 <img src="https://img.shields.io/badge/CNCF-KCNA-326CE5?style=flat-square&logo=kubernetes&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/CNCF-KCSA-326CE5?style=flat-square&logo=kubernetes&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/CNCF-CKA-326CE5?style=flat-square&logo=kubernetes&logoColor=white">&nbsp;
