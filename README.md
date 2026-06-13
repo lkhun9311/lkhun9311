@@ -24,7 +24,7 @@ Building Kubernetes-native GPU infrastructure for LLM serving, workload orchestr
 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Java-FCC624?style=flat-square&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Kubebuilder-326CE5?style=flat-square&logo=kubernetes&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/CRD%20%2F%20Controller-326CE5?style=flat-square&logo=kubernetes&logoColor=white">&nbsp;
@@ -37,7 +37,7 @@ Building Kubernetes-native GPU infrastructure for LLM serving, workload orchestr
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Argo%20CD-E6522C?style=flat-square&logo=argo&logoColor=white">&nbsp;
 
 **Observability** 
 
